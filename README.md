@@ -1,4 +1,5 @@
-# Mastercard Job Simulation
+![image](https://github.com/user-attachments/assets/f04d6b33-2fd4-4955-9eb4-16be194b738b)
+
 
 ## Objective
 
