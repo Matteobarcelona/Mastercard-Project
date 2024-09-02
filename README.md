@@ -43,7 +43,7 @@ How to design and implement the appropriate training for those teams to lower ou
 
 Create a short presentation to help teams improve security awareness 
 Now that you've analyzed the results, it's time to create a short presentation (3-5 slides) providing some awareness and training materials for the two teams that appear to be most susceptible. This will help us improve the security awareness of the teams that performed poorly in this campaign.
-![image](https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20security%20awareness.pptx)
+
 <a href="https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20security%20awareness.pptx" target="_blank">Phishing Staff presentation</a>
 
 ## Take away:
