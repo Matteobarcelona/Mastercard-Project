@@ -2,7 +2,7 @@
 
 Objective
 
-Mastercard Cybersecurity virtual experience program on Forage - septiembre de 2024
+Mastercard Cybersecurity virtual experience program on Forage - September 2024
 
  * Completed a job simulation where I served as an analyst on Mastercard’s
    Security Awareness Team 
@@ -25,8 +25,9 @@ At Mastercard, one of the ways we mitigate phishing threats is by educating our 
 
 Practice :
 Examine an obvious fake email and make it more believable 
-exercise on:
-![exercise](https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20emails.pdf)
+
+<a href="https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20emails.pdf" target="_blank">Phishing Emails Practice</a>
+
 
 
 Task 2 Interpret phishing simulation results: 
