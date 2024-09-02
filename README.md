@@ -44,6 +44,10 @@ Now that you've analyzed the results, it's time to create a short presentation (
 
 <a href="https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20security%20awareness.pptx" target="_blank">Phishing Staff presentation</a>
 
+## Skills:
+
+Communication, data analysis, data presentation, design thinking, problem solving, security awareness training, technical security awareness. 
+
 ## Take away:
 
 I recently participated in Mastercard's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on a Security Awareness team at Mastercard.
