@@ -26,7 +26,7 @@ At Mastercard, one of the ways we mitigate phishing threats is by educating our 
 Practice :
 Examine an obvious fake email and make it more believable 
 exercise on:
-![image](https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20emails.pdf)
+![exercise](https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20emails.pdf)
 
 
 Task 2 Interpret phishing simulation results: 
