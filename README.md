@@ -25,55 +25,8 @@ At Mastercard, one of the ways we mitigate phishing threats is by educating our 
 
 Practice :
 Examine an obvious fake email and make it more believable 
-current example:
-From: mastercardsIT@gmail.com
-To: employee@email.com 
-Subject: URGENT!  Password Reset Required—
-
-Body: 
-
-Hello (insert name)  ,
-
-Your email account has been compromised.  immediate action is required to reset your password!
-
-Click here to reset your password in the next hour or your account will be locked: [https://en.wikipedia.org/wiki/Phishing](https://en.wikipedia.org/wiki/Phishing)
- 
-Regards,Mastercard IT
-
-
-Phishing email after improvements to give more credibilities:
-From: mastercards IT staff 
-To: employee@email.com  
-Subject: Password Reset Required 
- 
-Body:  
- 
-Dear (insert name), 
-
- 
-We have to inform you that we received an alert from our system saying that your email account has been compromised.  You are required to immediately reset your password in order to avoid any security breach in our system. 
- 
-Click here to reset your password in the next hour or your account will be locked. 
-
-We would like to inform you also on the importance to keep our system safe from external threats so as every employee of Mastercards you need to secure as much as possible your employee details. 
-
-Let´s keep the world safe together! 
- 
-
-For any questions or queries, please contact your IT dept at: 
-
-IT-dept@mastercards.com 
-
- 
-Regards, 
-
-Mastercard IT department. 
-
- 
-
-Confidentiality Notice: 
-
-This email and any attachments are intended solely for the use of the intended recipient(s) and may contain confidential or legally privileged information. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. Any unauthorized review, use, disclosure, or distribution is strictly prohibited. 
+exercise on:
+![image](https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20emails.pdf)
 
 
 Task 2 Interpret phishing simulation results: 
