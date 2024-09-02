@@ -1,9 +1,15 @@
 # Mastercard Job Simulation
 
 Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Mastercard Cybersecurity virtual experience program on Forage - septiembre de 2024
+
+ * Completed a job simulation where I served as an analyst on Mastercard’s
+   Security Awareness Team 
+ * Helped identify and report security threats such as phishing 
+ * Analyzed and identified which areas of the business needed more robust
+   security training and implemented training courses and procedures for those
+   teams
 
 Task 1:
 What threat phishing presents to an organization and what different types of phishing emails look like:
@@ -82,27 +88,9 @@ How to design and implement the appropriate training for those teams to lower ou
 
 Create a short presentation to help teams improve security awareness 
 Now that you've analyzed the results, it's time to create a short presentation (3-5 slides) providing some awareness and training materials for the two teams that appear to be most susceptible. This will help us improve the security awareness of the teams that performed poorly in this campaign.
+![image](https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20security%20awareness.pptx)
 
-
-Skills Learned
-[Bullet Points - Remove this afterwards]
-
-Advanced understanding of SIEM concepts and practical application.
-Proficiency in analyzing and interpreting network logs.
-Ability to generate and recognize attack signatures and patterns.
-Enhanced knowledge of network protocols and security vulnerabilities.
-Development of critical thinking and problem-solving skills in cybersecurity.
-Tools Used
-[Bullet Points - Remove this afterwards]
-
-Security Information and Event Management (SIEM) system for log ingestion and analysis.
-Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-Telemetry generation tools to create realistic network traffic and attack scenarios.
-Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-Ref 1: Network Diagram
+Take away:
+I recently participated in Mastercard's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on a Security Awareness team at Mastercard.
+I worked on a project to identify phishing emails and design security awareness training courses. Through this job simulation, I built my skills in problem-solving, data analysis, and data presentation and practiced them in a real-world context.
+Doing this program confirmed that I really enjoy working in cybersecurity and I'm excited to apply these skills on a Security Awareness team at a company like Mastercard.
