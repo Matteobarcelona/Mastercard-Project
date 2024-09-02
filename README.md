@@ -33,15 +33,13 @@ Examine an obvious fake email and make it more believable
 
 ## Task 2 Interpret phishing simulation results: 
 
-How to identify which areas of the business need more awareness about phishing
-* identify which areas of the business need more awareness about phishing, and
-* design and implement the appropriate training for those teams to lower our risk of an attack.
+How to identify which areas of the business need more awareness about phishing:
+* identify which areas of the business need more awareness about phishing, and design and implement the appropriate training for those teams to lower our risk of an attack.
 
 ![image](https://github.com/user-attachments/assets/b3ffa56b-151d-42e7-9205-0271c04ff832)
 
-How to design and implement the appropriate training for those teams to lower our risk of an attack
-
-Create a short presentation to help teams improve security awareness 
+How to design and implement the appropriate training for those teams to lower our risk of an attack:
+* Create a short presentation to help teams improve security awareness 
 Now that you've analyzed the results, it's time to create a short presentation (3-5 slides) providing some awareness and training materials for the two teams that appear to be most susceptible. This will help us improve the security awareness of the teams that performed poorly in this campaign.
 
 <a href="https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20security%20awareness.pptx" target="_blank">Phishing Staff presentation</a>
